@@ -1,6 +1,7 @@
 ###Problems to fix (Niranjan's List)
 
 
+
 Profile dropdown menu still uses light mode colors regardless of theme.
 
 Services page is not loading or displaying data properly.
