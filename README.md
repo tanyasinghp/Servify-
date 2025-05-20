@@ -1,7 +1,14 @@
 ###Problems to fix (Niranjan's List)
 
-profile dropdown is still in light mode colors
-services page is not getting data to display
-"..." in the sevices description
-services con background is gone after theme change
-location and type filter is not working because of enum switch
+
+Profile dropdown menu still uses light mode colors regardless of theme.
+
+Services page is not loading or displaying data properly.
+
+Ellipsis ("...") appearing in the services description.
+
+Services container background disappears after switching themes.
+
+Location and type filters are not functioning correctly due to enum switch logic.
+
+
