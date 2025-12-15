@@ -1,6 +1,4 @@
-###Problems to fix (Niranjan's List)
-
-
+### Problems to fix!
 
 Profile dropdown menu still uses light mode colors regardless of theme.
 
